@@ -8,9 +8,9 @@ public class GenericForArray
 
         System.out.println("Biggest in int[] is : ");
         isBig(ar);
-        System.out.println("Biggest in double[] is : ");
+        System.out.println("Biggest in double[] is : " );
         isBig(dr);
-        System.out.println("Biggest in String[] is : ");
+        System.out.println("Biggest in String[] is : " );
         isBig(sr);
     }
 
